@@ -1,3 +1,2 @@
-# repo-demo
-this is my github repo 
+machine learning projects  
 author - chirag  vashisht 
